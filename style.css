@@ -28,7 +28,7 @@ html{
     width: 100px;
 }
 
-#about{
+#about, #experience{
     background-color: #5e17eb;
     color: #fff;
 }
